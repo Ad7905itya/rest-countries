@@ -91,5 +91,6 @@
 @media (max-width: 940px) {
     .country-Detail-content{
         flex-wrap: wrap;
+        margin-left: -15px;
     }
 }
