@@ -120,6 +120,7 @@ main{
 
 .card-container p {
     display: flex;
+    flex-wrap: wrap;
     font-size: 15px;
     font-weight: 300;
     padding-left: 10px;
